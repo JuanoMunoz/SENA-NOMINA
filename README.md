@@ -2,7 +2,10 @@
 
 Aplicativo en python que integra pandas para administrar la nómina SENA.
 
-**DEBE INSTALAR LOS SIGUIENTES _MÓDULOS_:** - `pip install pandas` - `pip install openpyxl`
+**DEBE INSTALAR LOS SIGUIENTES _MÓDULOS_:**
+
+`pip install pandas`
+`pip install openpyxl`
 
 ---
 
